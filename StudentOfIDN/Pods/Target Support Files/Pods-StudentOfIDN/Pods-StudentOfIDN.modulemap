@@ -1,0 +1,6 @@
+framework module Pods_StudentOfIDN {
+  umbrella header "Pods-StudentOfIDN-umbrella.h"
+
+  export *
+  module * { export * }
+}
